@@ -1,0 +1,15 @@
+</> gitignore
+
+# Ignore zip datasets
+*.zip
+
+# Data science folders
+data/
+datasets/
+models/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# CSV datasets
+*.csv
