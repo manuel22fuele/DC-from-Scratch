@@ -14,3 +14,6 @@ models/
 # CSV datasets
 *.csv
 *.png
+*.data
+*.names
+*.test
